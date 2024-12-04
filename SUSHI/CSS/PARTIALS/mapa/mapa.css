@@ -1,0 +1,16 @@
+#mapa{
+    padding-top: 50px;
+}
+
+#mapa h1{
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 5em;
+    margin-bottom: 50px;
+}
+
+#mp-google{
+    margin: 0 auto;
+    width: fit-content;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,34 @@
+header{
+    background-image: url(../FILES/IMG/icons/5297135.jpg);
+    
+}
+
+#logo{
+    width: 100px;
+    height: 130px;
+    align-items: center;
+    background: url(../FILES/IMG/editados/logo-v2.png)no-repeat top center;
+    align-items: center;
+    background-size: cover;
+}
+
+nav{
+    margin: 0 auto;
+    width: fit-content;
+}
+
+nav ul{
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+li a{
+    font-family: Roboto, sans-serif;
+    font-size: 1.3em;
+    color: var(--cinza);
+}
+
+a:hover{
+    color: var(--vermelho-aberto);
+    transition: all 0.5s;
+}

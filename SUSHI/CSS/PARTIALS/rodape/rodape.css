@@ -1,0 +1,10 @@
+#rodape{
+    background: var(--vermelho-fechado);
+    margin-bottom: -60px;
+}
+
+#rodape p{
+    text-align: center;
+    padding: 3px;
+}
+
