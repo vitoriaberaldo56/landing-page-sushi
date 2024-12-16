@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background: var(--preto);
+}
+
+:root{
+    --vermelho-fechado: #71150f;
+    --vermelho-fechado2:rgb(58, 7, 3);
+    --vermelho-aberto: #811811;
+    --laranja: #f08019;
+    --cinza: #d7d7d3;
+    --preto: #000;
+    --preto-2: #191211;
+}
+
+/*FONTES*/
+@font-face {
+    font-family: steelfish;
+    src: url(FILES/FONTES/steelfish/steelfish\ rg.otf);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(FILES/FONTES/roboto/Roboto-Bold.ttf);
+}
+
+
+
+/*elementos*/
+
+h1, span{
+    font-family: steelfish;
+}
+
+li{
+    list-style: none;
+}
+
+/*classes*/

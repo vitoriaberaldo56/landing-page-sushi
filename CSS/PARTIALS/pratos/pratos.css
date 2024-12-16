@@ -1,0 +1,80 @@
+#pratos{
+    margin: 3px 10px;
+    background: var(--preto);
+}
+
+#pratos h1{
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 90px;
+    color: var(--cinza);
+    font-size: 7px;
+}
+
+#lista-pratos{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.descricao-pratos{
+    background: white;
+    padding: 10px;
+    border: 1px solid rgb(78, 75, 75);
+}
+
+.descricao-pratos2{
+    width: 490px;
+    margin-left: 30px;
+    background: white;
+    padding: 10px;
+    border: 1px solid rgb(78, 75, 75);
+}
+
+
+.img-pratos{
+    width: 30%;
+    border: 1px solid rgb(78, 75, 75);
+}
+
+#prato-1{
+    width: 490px;
+    height: 300px;
+    border-radius: 20px 20px 0 0;
+    background-image: url(../FILES/IMG/pratos/vegetariano.png);
+    background-size: cover;
+}
+
+#prato-2{
+    margin: 0 30px 0 30px;
+    width: 490px;
+    height: 300px;
+    border-radius: 20px 20px 0 0;
+    background-image: url(../FILES/IMG/pratos/yakissoba.jpeg);
+    background-size: cover;
+}
+
+#prato-2-p, #prato-2-s {
+    margin-left: 30px;
+}
+
+#prato-3{
+    width: 490px;
+    height: 300px;
+    border-radius: 20px 20px 0 0;
+    background-image: url(../FILES/IMG/pratos/sobremesa.jpg);
+    background-size: cover;
+}
+
+#pratos span{
+    font-size: 3em;
+    color: var(--vermelho-aberto);
+}
+
+#pratos p{
+    color: black;
+}
+
+i{
+    color: var(--vermelho-aberto);
+}

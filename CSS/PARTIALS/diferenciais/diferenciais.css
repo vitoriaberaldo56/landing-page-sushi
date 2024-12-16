@@ -1,0 +1,53 @@
+#diferenciais{
+    margin: 0 10px;
+    background: linear-gradient(to right,
+    var(--preto-2)-20%,
+    var(--vermelho-fechado2),
+    var(--vermelho-fechado));
+
+}
+
+#item1{
+    margin-left: -200px;
+    width: 200px;
+    height: 230px;
+    background: url(../FILES/IMG/editados/japa-food-02.png) no-repeat;
+    background-size: cover;
+}
+
+#item2{
+    margin-left: -200px;
+    width: 200px;
+    height: 230px;
+    background: url(../FILES/IMG/editados/japa-food-03.png) no-repeat;
+    background-size: cover;
+}
+
+#item3{
+    margin-left: -200px;
+    width: 200px;
+    height: 230px;
+    margin-bottom: 40px;
+    background: url(../FILES/IMG/editados/japa-food-04.png) no-repeat;
+    background-size: cover;
+}
+
+#itens-diferenciais p{
+    padding-top: 70px;
+    margin-left: 90px;
+    height: fit-content;
+    margin-top: 30px;
+}
+
+#diferencial{
+    margin-top: 150px;
+    margin-left: 100px;
+    position: relative;
+    left: 100px;
+
+}
+
+#diferencial h1{
+    font-size: 5em;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,12 @@
+
+
+@media (min-width: 1200px){
+    #carrossel{
+        margin: 0 auto;
+        height: 700px;
+        margin: 0px 10px;
+        box-shadow: 1px 1px 3px 1px rgb(37, 36, 36);
+        background-image: url(../FILES/IMG/carrossel/capa1.jpg);
+        background-size: cover;
+    }
+}
